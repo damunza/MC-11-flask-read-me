@@ -1,7 +1,12 @@
 # flask-read-me
 ## Description
+* what your application is doing
+
+
 ## Authors
-* **BrianNg'eno** -  [Brian-Ng'eno]()
+* [Brian-Ng'eno](https://github.com/BrianNgeno)
+
+
 ## License
 MIT License
 
