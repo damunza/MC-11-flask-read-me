@@ -5,6 +5,7 @@
 
 ## Authors
 * [Brian-Ng'eno](https://github.com/BrianNgeno)
+* [Daniel Mutai](https://github.com/damunza)
 
 
 ## License
